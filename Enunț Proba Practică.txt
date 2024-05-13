@@ -1,0 +1,6 @@
+Proba practică constă în realizarea unei aplicații Windows cu Interfața grafică in WTL sau MFC sau WinUI care să permită:
+
+- selectarea unui EXE de tip consolă de pe disc (un EXE care nu are interfata grafica si care afișează rezultatele in consola. Exemplu: ipconfig),
+- lansarea acestui EXE 
+- capturarea outputului acestui EXE in memorie
+- afișarea acestui output în aplicație.
